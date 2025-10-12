@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post  # 这一行是关键，确保没有多余的空格，并且是小写
 title: "《现代软件工程》作业一：五个问题"
 date: 2025-10-12 10:00:00 +0800
 categories: blog posts
