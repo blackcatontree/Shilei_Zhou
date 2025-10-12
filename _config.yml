@@ -1,12 +1,9 @@
-# _config.yml 文件
-
 title: 软件工程作业存档
 description: 周仕磊的学习博客
 
-
+# 【关键】使用 remote_theme
+# 确保这一行替换了您之前所有的 theme: 或 remote_theme: 行
 remote_theme: pages-themes/cayman
 
 # 确保 baseurl 正确
-
-baseurl: "/Shilei_Zhou" 
-
+baseurl: "/Shilei_Zhou"
