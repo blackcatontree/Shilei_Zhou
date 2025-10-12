@@ -3,10 +3,10 @@
 title: 软件工程作业存档
 description: 周仕磊的学习博客
 
+
 remote_theme: pages-themes/cayman
 
-# 【非常重要】项目主页必须设置 baseurl
+# 确保 baseurl 正确
+
 baseurl: "/Shilei_Zhou" 
 
-# 可选：您也可以将 permalink 设置为默认值，让 Jekyll 自动处理
-# permalink: /:categories/:title/
