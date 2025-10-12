@@ -1,0 +1,16 @@
+# _config.yml 文件内容示例
+
+# 您的网站标题
+title: 您的博客名称
+# 您的网站描述
+description: 现代软件工程学习记录
+
+# 指定要使用的主题。您可以选择GitHub官方支持的任何主题，例如：
+theme: jekyll-theme-minimal 
+# 或者 
+# remote_theme: pages-themes/cayman@v0.2.0  # 使用远程主题，需要配置GitHub Actions
+
+# 核心：设置文章的默认 URL 结构（可选，但推荐）
+# 您可以定义一个默认结构，但为了实现您特定的 /blog/posts/ 结构，
+# 我们仍然推荐在文章的 Front Matter 中使用 permalink 字段（如上一个回复所示）。
+# permalink: /:categories/:title/
