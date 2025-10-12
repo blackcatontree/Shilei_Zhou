@@ -5,8 +5,8 @@ date: 2025-10-12 10:00:00 +0800
 categories: blog posts
 
 # 核心：定义您想要的 URL 路径
-#permalink: /blog/posts/software-engineering-assignments/01/
-permalink: /assignment/01/  # 临时使用更短的路径
+permalink: /blog/posts/software-engineering-assignments/01/
+#permalink: /assignment/01/  # 临时使用更短的路径
 ---
 
 
