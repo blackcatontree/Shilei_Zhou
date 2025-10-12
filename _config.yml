@@ -10,3 +10,4 @@ theme: jekyll-theme-cayman
 # 可选：设置文章的默认 URL 结构，以实现 /posts/ 路径
 # 如果您使用下面的 permalink 结构，那么文章的 permalink 字段可以更简洁。
 permalink: /:categories/:title/
+baseurl: "/Shilei_Zhou"  # 必须与您的仓库名一致
