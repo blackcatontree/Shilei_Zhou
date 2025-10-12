@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "《现代软件工程》阅读与提问作业（作业一）"
+title: "《现代软件工程》作业一：五个问题"
 date: 2025-10-12 10:00:00 +0800
-categories: assignments
-# 核心步骤：定义您需要的完整 URL 路径
+categories: blog posts
+
+# 核心：定义您想要的 URL 路径
 permalink: /blog/posts/software-engineering-assignments/01/
 ---
+
 
 # 《现代软件工程》课程 个人博客作业 1——就《现代软件工程》提 5 个问题
 
