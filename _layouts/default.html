@@ -1,0 +1,35 @@
+---
+layout: compress  # 保持 Cayman 主题压缩特性
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      {{ content }}
+
+      {% if page.layout == 'post' %}
+        <hr>
+        <script src="https://giscus.app/client.js"
+                data-repo="blackcatontree/Shilei_Zhou"
+                data-repo-id="R_kgDOQAwuvA"
+                data-category="General"
+                data-category-id="DIC_kwDOQAwuvM4CwqQK"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="preferred_color_scheme"
+                data-lang="zh-CN"
+                crossorigin="anonymous"
+                async>
+        </script>
+      {% endif %}
+      </div>
+    {% include footer.html %}
+  </body>
+</html>
