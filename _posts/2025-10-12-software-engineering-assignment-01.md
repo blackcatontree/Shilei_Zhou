@@ -1,10 +1,12 @@
 ---
-layout: post  # 这一行是关键，确保没有多余的空格，并且是小写
-title: "《现代软件工程》作业一：五个问题"
-date: 2025-10-12 10:00:00 +0800
-categories: blog posts
-comments: true
+layout: post
+title: 《现代软件工程》课程 个人博客作业 1——就《现代软件工程》提 5 个问题
+date:   2023-11-20 10:00:00 +0800
+author: Shilei_Zhou
+comments: true  # 确保此行存在且为 true
 ---
+
+这是我的文章内容。
 
 
 # 《现代软件工程》课程 个人博客作业 1——就《现代软件工程》提 5 个问题
